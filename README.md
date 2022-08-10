@@ -20,10 +20,11 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
-##
-### Installation
-#### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+<h2 align="center">
+   Metode Deploy
+</h2>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/IndomieGorengSatu/Subs-1-Ch-1-Gc"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank""/</a>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
